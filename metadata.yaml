@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '25537'
     url: http://www.gutenberg.org/2009/agents/25537
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27018#Point-de-lendemain
 gutenberg_bookshelf: FR Séduction et libertinage
 gutenberg_issued: '2008-10-24'
 gutenberg_type: Text
