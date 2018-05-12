@@ -1,0 +1,28 @@
+_repo: Point-de-lendemain_27018
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Denon, Vivant
+    alias: Denon, Dominique Vivant, baron
+    birthdate: 1747
+    deathdate: 1825
+    gutenberg_agent_id: '25537'
+    url: http://www.gutenberg.org/2009/agents/25537
+description: ''
+gutenberg_bookshelf: FR Séduction et libertinage
+gutenberg_issued: '2008-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27018'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'France -- Social life and customs -- Fiction'
+title: Point de lendemain
+url: http://www.gutenberg.org/ebooks/27018
